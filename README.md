@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a Diploma of Web & UX Design at YOOBEE.
-- 🌱 I’m currently learning JavaScript, how to use TouchDesigner, and a few other creative outlets.
+- 🌱 I’m learning JavaScript, how to use TouchDesigner, and a few other creative outlets.
 - 🤔 I’m looking for help with project based learning!
 - 💬 Ask me about MLBB or life in NZ.
 - 📫 How to reach me: flick me a message on Instagram. Same name is this account.
